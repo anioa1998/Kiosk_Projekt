@@ -20,7 +20,7 @@ namespace Kiosk_PBL.Controllers
 
         public IActionResult Index()
         {
-            //Hello world
+            //Release Hello World
             return View();
         }
 
